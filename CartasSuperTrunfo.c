@@ -9,21 +9,25 @@
 int main() {
     printf("Desafio Cartas Super Trunfo \n");
     //Relação de paises 
-    char Paises = "Brasil";
-    char paises = "Uruguai";
-    char pAises = "Argentina";
-    char PaIses = "Colombia";
-     
+        char Paises[20] = "Brasil";
+        char paises[20] = "Uruguai";
+        char pAises[20] = "Argentina";
+        char PaIses[20] = "Colombia";
+        
+        printf("%s\n", Paises);
+        printf("%s\n", paises);
+        printf("%s\n", pAises);
+        printf("%s\n", PaIses); 
     //Relação dos Estados
     // primeiro os brasileiros
-    char estados = "A";
-    char Estados = "B";
-    char eStados = "C";
-    char esTados = "D";
-    char estAdos = "E";
-    char estaDos = "F";
-    char estadOs = "G";
-    char estadoS = "H";
+            char estados[4] = "A";
+            char Estados[4] = "B";
+            char eStados[4] = "C";
+            char esTados[4] = "D";
+            char estAdos[4] = "E";
+            char estaDos[4] = "F";
+            char estadOs[4] = "G";
+            char estadoS[4] = "H";
        char cidades;
 
 
