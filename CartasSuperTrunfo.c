@@ -15,6 +15,14 @@ int main() {
         char PaIses[20] = "Colombia";
         
         printf("%s\n", Paises);
+        printf("Entre com o código da cidade, nome, população, área, PIB, número de pontos turísticos\n");
+        scanf("%d %s %d %e %e %d", &codigo da cidade, &nome, &populacao, &area, &PIB, &numero de pontos turisticos);
+        printf("Código da cidade: %d\n", codigo da cidade);
+        printf("Nome: %s\n", nome);
+        printf("População: %d\n", populacao);
+        printf("Área: %e\n", area);
+        printf("PIB: %e\n", PIB);
+        printf("Número de Pontos Turísticos: %d\n", numero de pontos turisticos);
         printf("%s\n", paises);
         printf("%s\n", pAises);
         printf("%s\n", PaIses); 
