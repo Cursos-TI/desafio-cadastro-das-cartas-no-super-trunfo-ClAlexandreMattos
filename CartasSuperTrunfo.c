@@ -30,9 +30,12 @@ int main() {
         printf("Área: %e\n", area);
         printf("PIB: %e\n", PIB);
         printf("Número de Pontos Turísticos: %d\n", numero de pontos turisticos);
-        printf("%s\n", paises);
-        printf("%s\n", pAises);
-        printf("%s\n", PaIses); 
+
+            printf("%s\n", paises);
+
+                printf("%s\n", pAises);
+
+                    printf("%s\n", PaIses); 
     //Relação dos Estados
     // primeiro os brasileiros
             char estados[4] = "A";
