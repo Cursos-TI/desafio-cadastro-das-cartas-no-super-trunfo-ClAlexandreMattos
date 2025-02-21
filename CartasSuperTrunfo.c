@@ -7,32 +7,32 @@
 //Teste larissa
 
 int main() {
-    char Estado[20];
-    char Código da Carta[3];
-    char Nome da Cidade[20];
-    int População;
-    float PIB;
-    int Número de Pontos Turísticos;
+    char estado[20];
+    char codigo da carta[3];
+    char nome da cidade[20];
+    int populacao;
+    float pib;
+    int numero de pontos turisticos;
     
     printf("Desafio Cartas Super Trunfo \n");
         printf("Carta 1:\n");
-            printf("Digite um Estado: \n");
-            scanf("%s", &Estado);
+            printf("Digite um estado: \n");
+            scanf("%s", &estado);
 
-            printf("Digite o Código da Carta: \n");
-            scanf("%s", &Código da Carta);
+            printf("Digite o codigo da carta: \n");
+            scanf("%s", &codigo da carta);
 
-            printf("Digite o Nome da Cidade: \n");
-            scanf("%s", &Nome da Cidade);
+            printf("Digite o nome da cidade: \n");
+            scanf("%s", &nome da cidade);
 
-            printf("Digite a População: \n");
+            printf("Digite a populacao: \n");
             scanf("%f", &População);
 
-            printf("Digite o PIB: \n");
+            printf("Digite o pib: \n");
             scanf("%f", &PIB);
 
-            printf("Digite o Número de Pontos Turísticos: \n");
-            scanf("%d", &Número de Pontos Turísticos);
+            printf("Digite o numero de pontos turisticos: \n");
+            scanf("%d", &Numero de Pontos Turísticos);
 
 
             return 0;
