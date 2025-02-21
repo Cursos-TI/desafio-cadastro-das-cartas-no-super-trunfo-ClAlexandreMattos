@@ -6,12 +6,14 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main(){
-    
+    printf("Carta 1:\n");
 
          char estado[1];
 
             printf("Digite o  Estado: \n");
             scanf("%s", estado);
+
+
 
             printf("Carta 1:\n");
             printf("Estado:%s\n",estado);
