@@ -26,13 +26,13 @@ int main() {
             scanf("%s", &Nome da Cidade);
 
             printf("Digite a População: \n");
-            scanf("%s", &População);
+            scanf("%f", &População);
 
             printf("Digite o PIB: \n");
-            scanf("%s", &PIB);
+            scanf("%f", &PIB);
 
             printf("Digite o Número de Pontos Turísticos: \n");
-            scanf("%s", &Número de Pontos Turísticos);
+            scanf("%d", &Número de Pontos Turísticos);
 
 
             return 0;
