@@ -10,7 +10,7 @@ int main(){
 
          char estado[20]; //Digite uma letra de A a H sequencial.
          char codcarta[40]; //Código da carta com a letra da cidade e o numero de 01 a 04 ex: A02, B03.
-         char nome[30]; //Nome da cidade.
+         char nome[30]; //Nome da cidade, com nomes separados precisam ser unidas com _
          int populacao; // Total de habitantes.
          float area; //Área da cidade em quilometros quadrados.
          float pib; //O produto bruto da cidade.
@@ -44,7 +44,7 @@ int main(){
 
                 char estado2[20]; //digite uma letra de A a H sequancial
                 char codcarta2[40]; //código da carta com a letra da cidade e o numero de 01 a 04 ex:A01, B03
-                char nome2[30]; //nome da cidade
+                char nome2[30]; //nome da cidade, com nomes separados precisam ser unidas com _
                 int populacao2; // total de habitante
                 float area2; //Área da cidade em quilometros quadrados
                 float pib2; //O produto bruto da cidade.
